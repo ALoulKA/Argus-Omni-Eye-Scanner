@@ -5,11 +5,25 @@
 **工业级 DNS 泛解析识别工具**
 
 全自动泛解析检测 · 子域名爆破去噪 · 白名单防误杀
-<img width="1912" height="832" alt="Argus" src="https://github.com/user-attachments/assets/1caa5a11-ca29-4907-9d02-7433b5f081e7" />
-<img width="1918" height="972" alt="Argus2" src="https://github.com/user-attachments/assets/a3859b3d-0676-4a2b-96ae-7208db46572e" />
-
 
 [中文](#快速开始) | [English](#quick-start)
+## 🤔 Why Argus?
+
+If you've ever used the popular "Layer Subdomain Miner" (Layer 域名挖掘机), you might know the pain:
+It works great, until it randomly crashes on large dictionaries, eats up all your RAM, or silently stops working.
+
+**Argus** was born from that frustration. 
+The goal is simple: **Stability first, Speed second.**
+No more crashes. No more lost progress. Just reliable subdomain discovery.
+
+## 🤔 为什么叫 Argus？
+
+相信很多师傅都用过经典的「Layer 域名挖掘机」。
+它很好用，直到遇到大字典时随机崩溃、内存爆满，或者无声无息地停止工作。
+
+**Argus（明日之眼）** 正是为了解决这个痛点而生。
+我们的目标很简单：**稳定第一，速度第二。**
+拒绝崩溃，拒绝丢进度，做一个真正可靠的资产侦察工具。
 
 </div>
 
@@ -29,6 +43,9 @@
 ---
 
 ## 🚀 快速开始
+<img width="1912" height="832" alt="Argus" src="https://github.com/user-attachments/assets/1caa5a11-ca29-4907-9d02-7433b5f081e7" />
+<img width="1918" height="972" alt="Argus2" src="https://github.com/user-attachments/assets/a3859b3d-0676-4a2b-96ae-7208db46572e" />
+
 
 ### 安装依赖
 
