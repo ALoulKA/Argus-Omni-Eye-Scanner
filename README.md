@@ -5,6 +5,9 @@
 **工业级 DNS 泛解析识别工具**
 
 全自动泛解析检测 · 子域名爆破去噪 · 白名单防误杀
+<img width="1912" height="832" alt="Argus" src="https://github.com/user-attachments/assets/1caa5a11-ca29-4907-9d02-7433b5f081e7" />
+<img width="1918" height="972" alt="Argus2" src="https://github.com/user-attachments/assets/a3859b3d-0676-4a2b-96ae-7208db46572e" />
+
 
 [中文](#快速开始) | [English](#quick-start)
 
